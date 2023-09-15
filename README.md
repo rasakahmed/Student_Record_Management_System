@@ -10,4 +10,4 @@ The Student Record Management System with Result Sheet has functionalities:
 6. Generate Result sheet
 
 Each Student has:
-ID, name, age, cgpa, addressand contact number.
+ID, name, age, cgpa, address and contact number.
